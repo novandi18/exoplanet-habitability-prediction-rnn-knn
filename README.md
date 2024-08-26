@@ -44,6 +44,9 @@ The repository includes code to plot the training and validation loss values ove
 ## Saving and Loading
 The trained model, along with the minimum and maximum values of each feature, is saved to CSV files. This allows for easy loading and reuse of the model for future predictions.
 
+## Demo
+[https://exoplanet-habitability-prediction.vercel.app/](https://exoplanet-habitability-prediction.vercel.app/)
+
 ## Conclusion
 This project demonstrates the application of deep learning techniques to the field of astronomy, specifically in predicting the habitability of exoplanets. The combination of RNN with LSTM and K-NN provides a robust approach to modeling and analyzing exoplanetary data.
 
